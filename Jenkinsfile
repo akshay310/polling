@@ -18,7 +18,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 sh 'echo Deploying....'
-                sh 'ssh deploy@192.168.29.23 -o StrictHostKeyChecking=no " bash deploy.sh "'
+                sh 'ssh deploy@192.168.29.23 -o StrictHostKeyChecking=no "bash /var/www/scripts/deploy.sh"
             }
         }
     }
