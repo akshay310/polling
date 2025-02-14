@@ -12,7 +12,7 @@ Docker environment
 
 2. Clone the repository
 
-3. CD into code dir
+3. cd into code directory
 
 4. Copy env.example into .env
 
