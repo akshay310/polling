@@ -1,4 +1,4 @@
-#Installation instructions
+Installation instructions
 
 These are for Ubuntu Virtual Desktop Instance. To install refer documentation in Oracle VM VirtualBox to download both Ubuntu Server and Desktop Instances.
 
